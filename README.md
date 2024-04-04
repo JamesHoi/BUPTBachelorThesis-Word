@@ -23,7 +23,7 @@
 
 ## 为什么不用Latex
 1. 查重有可能限制只能上传word
-2. latex格式没有人定期维护，若格式不符合提交可能被打回
+2. 北邮latex格式不像[浙大](https://github.com/TheNetAdmin/zjuthesis)没有人定期维护，最主要是学校没有提供模板，若格式不符合提交可能被打回
 3. word容易上手，所见即所得
 
 ## 参考
